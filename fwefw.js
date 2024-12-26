@@ -2,7 +2,7 @@ import React from 'react'
 
 function ßðß() {
   return (
-    <div>ßðß</div>
+    <div>lorwferfergerger</div>
   )
 }
 
